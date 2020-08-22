@@ -1,0 +1,20 @@
+<h2>File descriptions</h2>
+<ul>
+<li><strong>diabetes_train.csv</strong> - the labeled training set</li>
+<li><strong>diabetes_test.csv</strong> - the unlabeled test set (don't worry - I have the answers!)</li>
+</ul>
+<h2>Data fields</h2>
+<ul>
+<li><strong>Id</strong> - a unique ID for each patient
+<li><strong>num_times_pregnant</strong> -  Number of times pregnant
+<li><strong>plasma_glucose</strong> - Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+<li><strong>DBP</strong> - Diastolic blood pressure (mm Hg)
+<li><strong>triceps_skin</strong>- Triceps skin fold thickness (mm)
+<li><strong>serum</strong> - 2-Hour serum insulin (mu U/ml)
+<li><strong>BMI</strong> - Body mass index (weight in kg/(height in m)^2)
+<li><strong>pedigree</strong> - Diabetes pedigree function
+<li><strong>age</strong> - Age (years)
+<li><strong>Diabetes</strong> - Class variable (0=no diabetes, 1=diabetes)
+</ul>
+<h2>Example Notebook</h2>
+Can find on the portal under Content/Scripts and Resources.
